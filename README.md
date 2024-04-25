@@ -2,15 +2,17 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 4/21/2024, 10:31:38 PM
+Last Update: 4/26/2024, 4:55:29 AM
 
 ## Solutions
 
 | Problem | Difficulty | Tags | Solution |
 | ------- | ---------- | ---- | -------- |
 | [11. Container With Most Water](./11.%20Container%20With%20Most%20Water) [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | `Array`, `Two Pointers`, `Greedy` | [cpp](./11.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |
+| [49. Group Anagrams](./49.%20Group%20Anagrams) [🔗](https://leetcode.com/problems/group-anagrams/) | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [python](./49.%20Group%20Anagrams/group-anagrams.py) |
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
+| [242. Valid Anagram](./242.%20Valid%20Anagram) [🔗](https://leetcode.com/problems/valid-anagram/) | Easy | `Hash Table`, `String`, `Sorting` | [python](./242.%20Valid%20Anagram/valid-anagram.py) |
 | [332. Reconstruct Itinerary](./332.%20Reconstruct%20Itinerary) [🔗](https://leetcode.com/problems/reconstruct-itinerary/) | Hard | `Depth-First Search`, `Graph`, `Eulerian Circuit` | [cpp](./332.%20Reconstruct%20Itinerary/reconstruct-itinerary.cpp) \| [java](./332.%20Reconstruct%20Itinerary/reconstruct-itinerary.java) |
 | [341. Flatten Nested List Iterator](./341.%20Flatten%20Nested%20List%20Iterator) [🔗](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | `Stack`, `Tree`, `Depth-First Search`, `Design`, `Queue`, `Iterator` | [cpp](./341.%20Flatten%20Nested%20List%20Iterator/flatten-nested-list-iterator.cpp) |
 | [344. Reverse String](./344.%20Reverse%20String) [🔗](https://leetcode.com/problems/reverse-string/) | Easy | `Two Pointers`, `String` | [cpp](./344.%20Reverse%20String/reverse-string.cpp) \| [python3](./344.%20Reverse%20String/reverse-string.py3) |
