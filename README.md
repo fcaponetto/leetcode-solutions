@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 4/26/2024, 4:55:29 AM
+Last Update: 4/28/2024, 5:40:30 PM
 
 ## Solutions
 
@@ -21,7 +21,6 @@ Last Update: 4/26/2024, 4:55:29 AM
 | [561. Array Partition](./561.%20Array%20Partition) [🔗](https://leetcode.com/problems/array-partition/) | Easy | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [python3](./561.%20Array%20Partition/array-partition.py3) |
 | [724. Find Pivot Index](./724.%20Find%20Pivot%20Index) [🔗](https://leetcode.com/problems/find-pivot-index/) | Easy | `Array`, `Prefix Sum` | [cpp](./724.%20Find%20Pivot%20Index/find-pivot-index.cpp) |
 | [797. All Paths From Source to Target](./797.%20All%20Paths%20From%20Source%20to%20Target) [🔗](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | `Backtracking`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./797.%20All%20Paths%20From%20Source%20to%20Target/all-paths-from-source-to-target.cpp) |
+| [875. Koko Eating Bananas](./875.%20Koko%20Eating%20Bananas) [🔗](https://leetcode.com/problems/koko-eating-bananas/) | Medium | `Array`, `Binary Search` | [python3](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py3) \| [python](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py) |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary) [🔗](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | `Array`, `Sorting` | [cpp](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/average-salary-excluding-the-minimum-and-maximum-salary.cpp) |
 | [1971. Find if Path Exists in Graph](./1971.%20Find%20if%20Path%20Exists%20in%20Graph) [🔗](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` | [cpp](./1971.%20Find%20if%20Path%20Exists%20in%20Graph/find-if-path-exists-in-graph.cpp) |
-
-[Spreadsheet Link](https://docs.google.com/spreadsheets/d/13FByj1k13ZeRTdaie9KzXFtk7dp4phCa3qI2svcZgXE/edit?usp=sharing)
