@@ -2,7 +2,7 @@
 
 Tags: `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph`
 
-Given a reference of a node in a **[connected](https://en.wikipedia.org/wiki/Connectivity_(graph_theory)#Connected_graph)** undirected graph.
+Given a reference of a node in a **[connected](https://en.wikipedia.org/wiki/Connectivity_\(graph_theory\)#Connected_graph)** undirected graph.
 
 Return a [**deep copy**](https://en.wikipedia.org/wiki/Object_copying#Deep_copy) (clone) of the graph.
 

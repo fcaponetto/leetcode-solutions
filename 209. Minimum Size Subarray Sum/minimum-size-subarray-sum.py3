@@ -1,5 +1,5 @@
-# 209. Minimum Size Subarray Sum (9/30/56363)
-# Runtime: 189 ms (4.54%) Memory: 30.10 MB (76.76%) 
+# 209. Minimum Size Subarray Sum (03/10/56363)
+# Runtime: 185 ms (5.13%) Memory: 30.20 MB (54.58%) 
 
 # [2,3,1,2,4,3] 7
 #          L
@@ -14,9 +14,9 @@ class Solution:
         for R in range(len(nums)):
             sumOfNums += nums[R]
             while sumOfNums >= target:
-                length = min(R - L + 1, length)
+                length = min(length, R - L + 1)
                 sumOfNums -= nums[L]
                 L += 1
-        return length if length != len(nums) + 1 else 0
+        return length % (len(nums) + 1)
 
         
