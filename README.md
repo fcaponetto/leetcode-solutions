@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 30/05/2024, 05:50:26
+Last Update: 31/05/2024, 05:49:29
 
 ## Solutions
 
@@ -10,6 +10,7 @@ Last Update: 30/05/2024, 05:50:26
 | ------- | ---------- | ---- | -------- |
 | [11. Container With Most Water](./11.%20Container%20With%20Most%20Water) [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | `Array`, `Two Pointers`, `Greedy` | [cpp](./11.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |
 | [49. Group Anagrams](./49.%20Group%20Anagrams) [🔗](https://leetcode.com/problems/group-anagrams/) | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [python](./49.%20Group%20Anagrams/group-anagrams.py) |
+| [79. Word Search](./79.%20Word%20Search) [🔗](https://leetcode.com/problems/word-search/) | Medium | `Array`, `String`, `Backtracking`, `Matrix` | [python3](./79.%20Word%20Search/word-search.py3) |
 | [112. Path Sum](./112.%20Path%20Sum) [🔗](https://leetcode.com/problems/path-sum/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./112.%20Path%20Sum/path-sum.py3) |
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
