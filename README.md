@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 31/05/2024, 05:49:29
+Last Update: 13/06/2024, 04:15:32
 
 ## Solutions
 
@@ -25,6 +25,7 @@ Last Update: 31/05/2024, 05:49:29
 | [456. 132 Pattern](./456.%20132%20Pattern) [🔗](https://leetcode.com/problems/132-pattern/) | Medium | `Array`, `Binary Search`, `Stack`, `Monotonic Stack`, `Ordered Set` | [cpp](./456.%20132%20Pattern/132-pattern.cpp) |
 | [547. Number of Provinces](./547.%20Number%20of%20Provinces) [🔗](https://leetcode.com/problems/number-of-provinces/) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` | [cpp](./547.%20Number%20of%20Provinces/number-of-provinces.cpp) |
 | [561. Array Partition](./561.%20Array%20Partition) [🔗](https://leetcode.com/problems/array-partition/) | Easy | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [python3](./561.%20Array%20Partition/array-partition.py3) |
+| [567. Permutation in String](./567.%20Permutation%20in%20String) [🔗](https://leetcode.com/problems/permutation-in-string/) | Medium | `Hash Table`, `Two Pointers`, `String`, `Sliding Window` | [python3](./567.%20Permutation%20in%20String/permutation-in-string.py3) |
 | [724. Find Pivot Index](./724.%20Find%20Pivot%20Index) [🔗](https://leetcode.com/problems/find-pivot-index/) | Easy | `Array`, `Prefix Sum` | [cpp](./724.%20Find%20Pivot%20Index/find-pivot-index.cpp) |
 | [797. All Paths From Source to Target](./797.%20All%20Paths%20From%20Source%20to%20Target) [🔗](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | `Backtracking`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./797.%20All%20Paths%20From%20Source%20to%20Target/all-paths-from-source-to-target.cpp) |
 | [875. Koko Eating Bananas](./875.%20Koko%20Eating%20Bananas) [🔗](https://leetcode.com/problems/koko-eating-bananas/) | Medium | `Array`, `Binary Search` | [python3](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py3) \| [python](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py) |

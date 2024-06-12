@@ -1,5 +1,8 @@
-# 79. Word Search (28/11/56382)
-# Runtime: 33 ms (94.99%) Memory: 16.47 MB (87.40%) 
+# 79. Word Search (16/12/56382)
+# Runtime: 32 ms (94.99%) Memory: 16.59 MB (53.77%) 
+
+# Time Complexity O(n * m * 3^W) 
+# where m is the number of rows, n is the number of columns, and W is the length of the word
 
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
@@ -19,7 +22,6 @@ class Solution:
         if board_dict[word[0]] > board_dict[word[-1]]:
             word = word[::-1]
 
-
         def dfs(r, c, i):
             if i == len(word):
                 return True
@@ -30,12 +32,14 @@ class Solution:
                 (r, c) in visited):
                 return False
 
+            # backtrack
             visited.add((r,c))
             res =  (dfs(r, c+1, i+1) or
                     dfs(r, c-1, i+1) or
                     dfs(r-1, c, i+1) or
                     dfs(r+1, c, i+1))
-            visited.remove((r,c))
+            if not res:
+                visited.remove((r,c))
             return res
 
         for r in range(ROWS):
