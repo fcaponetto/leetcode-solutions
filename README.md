@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 13/06/2024, 04:15:32
+Last Update: 01/07/2024, 00:56:52
 
 ## Solutions
 
@@ -10,6 +10,7 @@ Last Update: 13/06/2024, 04:15:32
 | ------- | ---------- | ---- | -------- |
 | [11. Container With Most Water](./11.%20Container%20With%20Most%20Water) [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | `Array`, `Two Pointers`, `Greedy` | [cpp](./11.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |
 | [49. Group Anagrams](./49.%20Group%20Anagrams) [🔗](https://leetcode.com/problems/group-anagrams/) | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [python](./49.%20Group%20Anagrams/group-anagrams.py) |
+| [78. Subsets](./78.%20Subsets) [🔗](https://leetcode.com/problems/subsets/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` | [python3](./78.%20Subsets/subsets.py3) |
 | [79. Word Search](./79.%20Word%20Search) [🔗](https://leetcode.com/problems/word-search/) | Medium | `Array`, `String`, `Backtracking`, `Matrix` | [python3](./79.%20Word%20Search/word-search.py3) |
 | [112. Path Sum](./112.%20Path%20Sum) [🔗](https://leetcode.com/problems/path-sum/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./112.%20Path%20Sum/path-sum.py3) |
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
