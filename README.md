@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 7/22/2024, 1:43:55 AM
+Last Update: 7/22/2024, 10:42:26 PM
 
 ## Solutions
 
@@ -31,6 +31,7 @@ Last Update: 7/22/2024, 1:43:55 AM
 | [724. Find Pivot Index](./724.%20Find%20Pivot%20Index) [🔗](https://leetcode.com/problems/find-pivot-index/) | Easy | `Array`, `Prefix Sum` | [cpp](./724.%20Find%20Pivot%20Index/find-pivot-index.cpp) |
 | [739. Daily Temperatures](./739.%20Daily%20Temperatures) [🔗](https://leetcode.com/problems/daily-temperatures/) | Medium | `Array`, `Stack`, `Monotonic Stack` | [python3](./739.%20Daily%20Temperatures/daily-temperatures.py3) |
 | [797. All Paths From Source to Target](./797.%20All%20Paths%20From%20Source%20to%20Target) [🔗](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | `Backtracking`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./797.%20All%20Paths%20From%20Source%20to%20Target/all-paths-from-source-to-target.cpp) |
+| [853. Car Fleet](./853.%20Car%20Fleet) [🔗](https://leetcode.com/problems/car-fleet/) | Medium | `Array`, `Stack`, `Sorting`, `Monotonic Stack` | [python3](./853.%20Car%20Fleet/car-fleet.py3) |
 | [875. Koko Eating Bananas](./875.%20Koko%20Eating%20Bananas) [🔗](https://leetcode.com/problems/koko-eating-bananas/) | Medium | `Array`, `Binary Search` | [python3](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py3) \| [python](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py) |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) [🔗](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | `Array`, `Sliding Window` | [python3](./1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py3) |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary) [🔗](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | `Array`, `Sorting` | [cpp](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/average-salary-excluding-the-minimum-and-maximum-salary.cpp) |
