@@ -1,7 +1,7 @@
 # 79. Word Search (16/12/56382)
 # Runtime: 32 ms (94.99%) Memory: 16.59 MB (53.77%) 
 
-# Time Complexity O(n * m * 3^W) 
+# Time Complexity O(n * m * 4^W) 
 # where m is the number of rows, n is the number of columns, and W is the length of the word
 
 class Solution:
