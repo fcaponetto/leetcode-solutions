@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 7/28/2024, 11:14:36 PM
+Last Update: 7/29/2024, 1:56:15 AM
 
 ## Solutions
 
@@ -11,6 +11,7 @@ Last Update: 7/28/2024, 11:14:36 PM
 | [11. Container With Most Water](./11.%20Container%20With%20Most%20Water) [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | `Array`, `Two Pointers`, `Greedy` | [cpp](./11.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |
 | [39. Combination Sum](./39.%20Combination%20Sum) [🔗](https://leetcode.com/problems/combination-sum/) | Medium | `Array`, `Backtracking` | [python3](./39.%20Combination%20Sum/combination-sum.py3) |
 | [49. Group Anagrams](./49.%20Group%20Anagrams) [🔗](https://leetcode.com/problems/group-anagrams/) | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [python](./49.%20Group%20Anagrams/group-anagrams.py) |
+| [74. Search a 2D Matrix](./74.%20Search%20a%202D%20Matrix) [🔗](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | `Array`, `Binary Search`, `Matrix` | [cpp](./74.%20Search%20a%202D%20Matrix/search-a-2d-matrix.cpp) |
 | [78. Subsets](./78.%20Subsets) [🔗](https://leetcode.com/problems/subsets/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` | [python3](./78.%20Subsets/subsets.py3) |
 | [79. Word Search](./79.%20Word%20Search) [🔗](https://leetcode.com/problems/word-search/) | Medium | `Array`, `String`, `Backtracking`, `Matrix` | [python3](./79.%20Word%20Search/word-search.py3) |
 | [112. Path Sum](./112.%20Path%20Sum) [🔗](https://leetcode.com/problems/path-sum/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./112.%20Path%20Sum/path-sum.py3) |
