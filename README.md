@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 7/23/2024, 4:12:41 PM
+Last Update: 7/28/2024, 11:14:36 PM
 
 ## Solutions
 
@@ -34,6 +34,7 @@ Last Update: 7/23/2024, 4:12:41 PM
 | [797. All Paths From Source to Target](./797.%20All%20Paths%20From%20Source%20to%20Target) [🔗](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | `Backtracking`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./797.%20All%20Paths%20From%20Source%20to%20Target/all-paths-from-source-to-target.cpp) |
 | [853. Car Fleet](./853.%20Car%20Fleet) [🔗](https://leetcode.com/problems/car-fleet/) | Medium | `Array`, `Stack`, `Sorting`, `Monotonic Stack` | [python3](./853.%20Car%20Fleet/car-fleet.py3) |
 | [875. Koko Eating Bananas](./875.%20Koko%20Eating%20Bananas) [🔗](https://leetcode.com/problems/koko-eating-bananas/) | Medium | `Array`, `Binary Search` | [python3](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py3) \| [python](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py) |
+| [994. Rotting Oranges](./994.%20Rotting%20Oranges) [🔗](https://leetcode.com/problems/rotting-oranges/) | Medium | `Array`, `Breadth-First Search`, `Matrix` | [python3](./994.%20Rotting%20Oranges/rotting-oranges.py3) |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) [🔗](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | `Array`, `Sliding Window` | [python3](./1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py3) |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary) [🔗](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | `Array`, `Sorting` | [cpp](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/average-salary-excluding-the-minimum-and-maximum-salary.cpp) |
 | [1971. Find if Path Exists in Graph](./1971.%20Find%20if%20Path%20Exists%20in%20Graph) [🔗](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` | [cpp](./1971.%20Find%20if%20Path%20Exists%20in%20Graph/find-if-path-exists-in-graph.cpp) |
