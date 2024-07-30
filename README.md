@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 7/30/2024, 1:47:54 AM
+Last Update: 7/30/2024, 10:55:54 PM
 
 ## Solutions
 
@@ -21,6 +21,7 @@ Last Update: 7/30/2024, 1:47:54 AM
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
 | [209. Minimum Size Subarray Sum](./209.%20Minimum%20Size%20Subarray%20Sum) [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` | [python3](./209.%20Minimum%20Size%20Subarray%20Sum/minimum-size-subarray-sum.py3) |
 | [219. Contains Duplicate II](./219.%20Contains%20Duplicate%20II) [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | `Array`, `Hash Table`, `Sliding Window` | [python3](./219.%20Contains%20Duplicate%20II/contains-duplicate-ii.py3) |
+| [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree) [🔗](https://leetcode.com/problems/invert-binary-tree/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./226.%20Invert%20Binary%20Tree/invert-binary-tree.py3) |
 | [230. Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST) [🔗](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [python3](./230.%20Kth%20Smallest%20Element%20in%20a%20BST/kth-smallest-element-in-a-bst.py3) |
 | [242. Valid Anagram](./242.%20Valid%20Anagram) [🔗](https://leetcode.com/problems/valid-anagram/) | Easy | `Hash Table`, `String`, `Sorting` | [python](./242.%20Valid%20Anagram/valid-anagram.py) |
 | [303. Range Sum Query - Immutable](./303.%20Range%20Sum%20Query%20-%20Immutable) [🔗](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | `Array`, `Design`, `Prefix Sum` | [python3](./303.%20Range%20Sum%20Query%20-%20Immutable/range-sum-query-immutable.py3) |
