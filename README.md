@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 8/1/2024, 6:29:19 PM
+Last Update: 8/4/2024, 1:39:04 AM
 
 ## Solutions
 
@@ -10,6 +10,7 @@ Last Update: 8/1/2024, 6:29:19 PM
 | ------- | ---------- | ---- | -------- |
 | [1. Two Sum](./1.%20Two%20Sum) [🔗](https://leetcode.com/problems/two-sum/) | Easy | `Array`, `Hash Table` | [cpp](./1.%20Two%20Sum/two-sum.cpp) |
 | [11. Container With Most Water](./11.%20Container%20With%20Most%20Water) [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | `Array`, `Two Pointers`, `Greedy` | [cpp](./11.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |
+| [15. 3Sum](./15.%203Sum) [🔗](https://leetcode.com/problems/3sum/) | Medium | `Array`, `Two Pointers`, `Sorting` | [cpp](./15.%203Sum/3sum.cpp) |
 | [39. Combination Sum](./39.%20Combination%20Sum) [🔗](https://leetcode.com/problems/combination-sum/) | Medium | `Array`, `Backtracking` | [python3](./39.%20Combination%20Sum/combination-sum.py3) |
 | [49. Group Anagrams](./49.%20Group%20Anagrams) [🔗](https://leetcode.com/problems/group-anagrams/) | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [cpp](./49.%20Group%20Anagrams/group-anagrams.cpp) \| [python](./49.%20Group%20Anagrams/group-anagrams.py) |
 | [70. Climbing Stairs](./70.%20Climbing%20Stairs) [🔗](https://leetcode.com/problems/climbing-stairs/) | Easy | `Math`, `Dynamic Programming`, `Memoization` | [python3](./70.%20Climbing%20Stairs/climbing-stairs.py3) |
