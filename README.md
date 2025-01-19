@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 8/4/2024, 1:39:04 AM
+Last Update: 1/20/2025, 6:28:14 AM
 
 ## Solutions
 
@@ -16,12 +16,13 @@ Last Update: 8/4/2024, 1:39:04 AM
 | [70. Climbing Stairs](./70.%20Climbing%20Stairs) [🔗](https://leetcode.com/problems/climbing-stairs/) | Easy | `Math`, `Dynamic Programming`, `Memoization` | [python3](./70.%20Climbing%20Stairs/climbing-stairs.py3) |
 | [74. Search a 2D Matrix](./74.%20Search%20a%202D%20Matrix) [🔗](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | `Array`, `Binary Search`, `Matrix` | [cpp](./74.%20Search%20a%202D%20Matrix/search-a-2d-matrix.cpp) |
 | [78. Subsets](./78.%20Subsets) [🔗](https://leetcode.com/problems/subsets/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` | [python3](./78.%20Subsets/subsets.py3) |
-| [79. Word Search](./79.%20Word%20Search) [🔗](https://leetcode.com/problems/word-search/) | Medium | `Array`, `String`, `Backtracking`, `Matrix` | [python3](./79.%20Word%20Search/word-search.py3) |
+| [79. Word Search](./79.%20Word%20Search) [🔗](https://leetcode.com/problems/word-search/) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` | [python3](./79.%20Word%20Search/word-search.py3) |
 | [112. Path Sum](./112.%20Path%20Sum) [🔗](https://leetcode.com/problems/path-sum/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./112.%20Path%20Sum/path-sum.py3) |
 | [121. Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | `Array`, `Dynamic Programming` | [python3](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best-time-to-buy-and-sell-stock.py3) |
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
 | [209. Minimum Size Subarray Sum](./209.%20Minimum%20Size%20Subarray%20Sum) [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` | [python3](./209.%20Minimum%20Size%20Subarray%20Sum/minimum-size-subarray-sum.py3) |
+| [217. Contains Duplicate](./217.%20Contains%20Duplicate) [🔗](https://leetcode.com/problems/contains-duplicate/) | Easy | `Array`, `Hash Table`, `Sorting` | [python3](./217.%20Contains%20Duplicate/contains-duplicate.py3) |
 | [219. Contains Duplicate II](./219.%20Contains%20Duplicate%20II) [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | `Array`, `Hash Table`, `Sliding Window` | [python3](./219.%20Contains%20Duplicate%20II/contains-duplicate-ii.py3) |
 | [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree) [🔗](https://leetcode.com/problems/invert-binary-tree/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./226.%20Invert%20Binary%20Tree/invert-binary-tree.py3) |
 | [230. Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST) [🔗](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [python3](./230.%20Kth%20Smallest%20Element%20in%20a%20BST/kth-smallest-element-in-a-bst.py3) |
