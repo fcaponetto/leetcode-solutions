@@ -1,6 +1,6 @@
 # 79. Word Search
 
-Tags: `Array`, `String`, `Backtracking`, `Matrix`
+Tags: `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix`
 
 Given an `m x n` grid of characters `board` and a string `word`, return `true` _if_ `word` _exists in the grid_.
 
