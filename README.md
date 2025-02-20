@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 2/16/2025, 3:57:47 AM
+Last Update: 2/21/2025, 6:45:01 AM
 
 ## Solutions
 
@@ -27,6 +27,7 @@ Last Update: 2/16/2025, 3:57:47 AM
 | [219. Contains Duplicate II](./219.%20Contains%20Duplicate%20II) [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | `Array`, `Hash Table`, `Sliding Window` | [python3](./219.%20Contains%20Duplicate%20II/contains-duplicate-ii.py3) |
 | [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree) [🔗](https://leetcode.com/problems/invert-binary-tree/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./226.%20Invert%20Binary%20Tree/invert-binary-tree.py3) |
 | [230. Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST) [🔗](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [python3](./230.%20Kth%20Smallest%20Element%20in%20a%20BST/kth-smallest-element-in-a-bst.py3) |
+| [238. Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self) [🔗](https://leetcode.com/problems/product-of-array-except-self/) | Medium | `Array`, `Prefix Sum` | [python3](./238.%20Product%20of%20Array%20Except%20Self/product-of-array-except-self.py3) |
 | [242. Valid Anagram](./242.%20Valid%20Anagram) [🔗](https://leetcode.com/problems/valid-anagram/) | Easy | `Hash Table`, `String`, `Sorting` | [python](./242.%20Valid%20Anagram/valid-anagram.py) |
 | [303. Range Sum Query - Immutable](./303.%20Range%20Sum%20Query%20-%20Immutable) [🔗](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | `Array`, `Design`, `Prefix Sum` | [python3](./303.%20Range%20Sum%20Query%20-%20Immutable/range-sum-query-immutable.py3) |
 | [332. Reconstruct Itinerary](./332.%20Reconstruct%20Itinerary) [🔗](https://leetcode.com/problems/reconstruct-itinerary/) | Hard | `Depth-First Search`, `Graph`, `Eulerian Circuit` | [cpp](./332.%20Reconstruct%20Itinerary/reconstruct-itinerary.cpp) \| [java](./332.%20Reconstruct%20Itinerary/reconstruct-itinerary.java) |
