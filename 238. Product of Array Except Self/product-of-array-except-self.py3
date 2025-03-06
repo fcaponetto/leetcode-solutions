@@ -1,5 +1,5 @@
-# 238. Product of Array Except Self (4/19/57111)
-# Runtime: 11 ms (94.37%) Memory: 23.15 MB (87.89%) 
+# 238. Product of Array Except Self (4/26/57111)
+# Runtime: 11 ms (94.34%) Memory: 23.22 MB (74.00%) 
 
 # Time complexity O(n)
 # Space complexity O(1) 
