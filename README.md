@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 3/11/2025, 6:15:13 AM
+Last Update: 5/11/2025, 10:32:40 PM
 
 ## Solutions
 
@@ -13,6 +13,7 @@ Last Update: 3/11/2025, 6:15:13 AM
 | [15. 3Sum](./15.%203Sum) [🔗](https://leetcode.com/problems/3sum/) | Medium | `Array`, `Two Pointers`, `Sorting` | [cpp](./15.%203Sum/3sum.cpp) \| [python3](./15.%203Sum/3sum.py3) |
 | [39. Combination Sum](./39.%20Combination%20Sum) [🔗](https://leetcode.com/problems/combination-sum/) | Medium | `Array`, `Backtracking` | [python3](./39.%20Combination%20Sum/combination-sum.py3) |
 | [49. Group Anagrams](./49.%20Group%20Anagrams) [🔗](https://leetcode.com/problems/group-anagrams/) | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [cpp](./49.%20Group%20Anagrams/group-anagrams.cpp) \| [python](./49.%20Group%20Anagrams/group-anagrams.py) |
+| [50. Pow(x, n)](./50.%20Pow(x,%20n)) [🔗](https://leetcode.com/problems/powx-n/) | Medium | `Math`, `Recursion` | [python3](./50.%20Pow(x,%20n)/powx-n.py3) |
 | [70. Climbing Stairs](./70.%20Climbing%20Stairs) [🔗](https://leetcode.com/problems/climbing-stairs/) | Easy | `Math`, `Dynamic Programming`, `Memoization` | [python3](./70.%20Climbing%20Stairs/climbing-stairs.py3) |
 | [74. Search a 2D Matrix](./74.%20Search%20a%202D%20Matrix) [🔗](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | `Array`, `Binary Search`, `Matrix` | [cpp](./74.%20Search%20a%202D%20Matrix/search-a-2d-matrix.cpp) |
 | [78. Subsets](./78.%20Subsets) [🔗](https://leetcode.com/problems/subsets/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` | [python3](./78.%20Subsets/subsets.py3) |
