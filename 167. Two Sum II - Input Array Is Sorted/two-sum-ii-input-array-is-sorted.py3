@@ -1,22 +1,29 @@
-# 167. Two Sum II - Input Array Is Sorted (12/16/55834)
-# Runtime: 101 ms (25.94%) Memory: 17.28 MB (73.24%) 
+# 167. Two Sum II - Input Array Is Sorted (4/1/57338)
+# Runtime: 7 ms (20.03%) Memory: 18.76 MB (0.00%) 
+
+
+# We are looking for two elements
+# Data structure is an array
+# The array is sorted
+# Two index
+
+# [2,7,11,15]
+#  L       R
+
+# a[L] + a[R] > target -> R--
+# a[L] + a[R] < target -> L++
 
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        indexes = []
-        i = 0
-        j = len(numbers) - 1
+        L = 0
+        R = len(numbers) - 1
 
-        while i < j:
-            diff = target - numbers[i]
-            
-            if numbers[j] > diff:
-                j-=1
-            elif numbers[j] < diff:
-                i+=1
+        while L < R:
+            if numbers[L] + numbers[R] > target:
+                R -= 1
+            elif numbers[L] + numbers[R] < target:
+                L += 1
             else:
-                indexes.append(i+1)
-                indexes.append(j+1)
-                break    
-            
-        return indexes
+                break
+        
+        return [L+1, R+1]
