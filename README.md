@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 5/15/2025, 4:11:00 AM
+Last Update: 5/20/2025, 4:59:14 AM
 
 ## Solutions
 
@@ -21,6 +21,7 @@ Last Update: 5/15/2025, 4:11:00 AM
 | [112. Path Sum](./112.%20Path%20Sum) [🔗](https://leetcode.com/problems/path-sum/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [python3](./112.%20Path%20Sum/path-sum.py3) |
 | [121. Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | `Array`, `Dynamic Programming` | [python3](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best-time-to-buy-and-sell-stock.py3) |
 | [125. Valid Palindrome](./125.%20Valid%20Palindrome) [🔗](https://leetcode.com/problems/valid-palindrome/) | Easy | `Two Pointers`, `String` | [python3](./125.%20Valid%20Palindrome/valid-palindrome.py3) |
+| [128. Longest Consecutive Sequence](./128.%20Longest%20Consecutive%20Sequence) [🔗](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | `Array`, `Hash Table`, `Union Find` | [python3](./128.%20Longest%20Consecutive%20Sequence/longest-consecutive-sequence.py3) |
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
 | [209. Minimum Size Subarray Sum](./209.%20Minimum%20Size%20Subarray%20Sum) [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` | [python3](./209.%20Minimum%20Size%20Subarray%20Sum/minimum-size-subarray-sum.py3) |
