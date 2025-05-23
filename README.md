@@ -2,13 +2,14 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 5/20/2025, 4:59:14 AM
+Last Update: 5/24/2025, 5:33:21 AM
 
 ## Solutions
 
 | Problem | Difficulty | Tags | Solution |
 | ------- | ---------- | ---- | -------- |
 | [1. Two Sum](./1.%20Two%20Sum) [🔗](https://leetcode.com/problems/two-sum/) | Easy | `Array`, `Hash Table` | [cpp](./1.%20Two%20Sum/two-sum.cpp) |
+| [3. Longest Substring Without Repeating Characters](./3.%20Longest%20Substring%20Without%20Repeating%20Characters) [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | `Hash Table`, `String`, `Sliding Window` | [python3](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest-substring-without-repeating-characters.py3) |
 | [11. Container With Most Water](./11.%20Container%20With%20Most%20Water) [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | `Array`, `Two Pointers`, `Greedy` | [cpp](./11.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |
 | [15. 3Sum](./15.%203Sum) [🔗](https://leetcode.com/problems/3sum/) | Medium | `Array`, `Two Pointers`, `Sorting` | [cpp](./15.%203Sum/3sum.cpp) \| [python3](./15.%203Sum/3sum.py3) |
 | [39. Combination Sum](./39.%20Combination%20Sum) [🔗](https://leetcode.com/problems/combination-sum/) | Medium | `Array`, `Backtracking` | [python3](./39.%20Combination%20Sum/combination-sum.py3) |
