@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 6/1/2025, 4:14:37 AM
+Last Update: 6/3/2025, 5:36:47 AM
 
 ## Solutions
 
@@ -33,6 +33,7 @@ Last Update: 6/1/2025, 4:14:37 AM
 | [230. Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST) [🔗](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [python3](./230.%20Kth%20Smallest%20Element%20in%20a%20BST/kth-smallest-element-in-a-bst.py3) |
 | [238. Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self) [🔗](https://leetcode.com/problems/product-of-array-except-self/) | Medium | `Array`, `Prefix Sum` | [python3](./238.%20Product%20of%20Array%20Except%20Self/product-of-array-except-self.py3) |
 | [242. Valid Anagram](./242.%20Valid%20Anagram) [🔗](https://leetcode.com/problems/valid-anagram/) | Easy | `Hash Table`, `String`, `Sorting` | [python](./242.%20Valid%20Anagram/valid-anagram.py) |
+| [268. Missing Number](./268.%20Missing%20Number) [🔗](https://leetcode.com/problems/missing-number/) | Easy | `Array`, `Hash Table`, `Math`, `Binary Search`, `Bit Manipulation`, `Sorting` | [python3](./268.%20Missing%20Number/missing-number.py3) |
 | [303. Range Sum Query - Immutable](./303.%20Range%20Sum%20Query%20-%20Immutable) [🔗](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | `Array`, `Design`, `Prefix Sum` | [python3](./303.%20Range%20Sum%20Query%20-%20Immutable/range-sum-query-immutable.py3) |
 | [332. Reconstruct Itinerary](./332.%20Reconstruct%20Itinerary) [🔗](https://leetcode.com/problems/reconstruct-itinerary/) | Hard | `Depth-First Search`, `Graph`, `Eulerian Circuit` | [cpp](./332.%20Reconstruct%20Itinerary/reconstruct-itinerary.cpp) \| [java](./332.%20Reconstruct%20Itinerary/reconstruct-itinerary.java) |
 | [341. Flatten Nested List Iterator](./341.%20Flatten%20Nested%20List%20Iterator) [🔗](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | `Stack`, `Tree`, `Depth-First Search`, `Design`, `Queue`, `Iterator` | [cpp](./341.%20Flatten%20Nested%20List%20Iterator/flatten-nested-list-iterator.cpp) |
