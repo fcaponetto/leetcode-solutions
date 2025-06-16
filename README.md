@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 6/3/2025, 5:36:47 AM
+Last Update: 6/17/2025, 4:40:51 AM
 
 ## Solutions
 
@@ -25,6 +25,7 @@ Last Update: 6/3/2025, 5:36:47 AM
 | [125. Valid Palindrome](./125.%20Valid%20Palindrome) [🔗](https://leetcode.com/problems/valid-palindrome/) | Easy | `Two Pointers`, `String` | [python3](./125.%20Valid%20Palindrome/valid-palindrome.py3) |
 | [128. Longest Consecutive Sequence](./128.%20Longest%20Consecutive%20Sequence) [🔗](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | `Array`, `Hash Table`, `Union Find` | [python3](./128.%20Longest%20Consecutive%20Sequence/longest-consecutive-sequence.py3) |
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
+| [139. Word Break](./139.%20Word%20Break) [🔗](https://leetcode.com/problems/word-break/) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` | [python3](./139.%20Word%20Break/word-break.py3) |
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
 | [209. Minimum Size Subarray Sum](./209.%20Minimum%20Size%20Subarray%20Sum) [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` | [python3](./209.%20Minimum%20Size%20Subarray%20Sum/minimum-size-subarray-sum.py3) |
 | [217. Contains Duplicate](./217.%20Contains%20Duplicate) [🔗](https://leetcode.com/problems/contains-duplicate/) | Easy | `Array`, `Hash Table`, `Sorting` | [python3](./217.%20Contains%20Duplicate/contains-duplicate.py3) |
