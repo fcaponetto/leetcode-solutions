@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 6/24/2025, 4:25:37 AM
+Last Update: 6/30/2025, 3:40:55 AM
 
 ## Solutions
 
@@ -28,6 +28,7 @@ Last Update: 6/24/2025, 4:25:37 AM
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
 | [139. Word Break](./139.%20Word%20Break) [🔗](https://leetcode.com/problems/word-break/) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` | [python3](./139.%20Word%20Break/word-break.py3) |
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
+| [208. Implement Trie (Prefix Tree)](./208.%20Implement%20Trie%20(Prefix%20Tree)) [🔗](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | `Hash Table`, `String`, `Design`, `Trie` | [python3](./208.%20Implement%20Trie%20(Prefix%20Tree)/implement-trie-prefix-tree.py3) |
 | [209. Minimum Size Subarray Sum](./209.%20Minimum%20Size%20Subarray%20Sum) [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` | [python3](./209.%20Minimum%20Size%20Subarray%20Sum/minimum-size-subarray-sum.py3) |
 | [217. Contains Duplicate](./217.%20Contains%20Duplicate) [🔗](https://leetcode.com/problems/contains-duplicate/) | Easy | `Array`, `Hash Table`, `Sorting` | [python3](./217.%20Contains%20Duplicate/contains-duplicate.py3) |
 | [219. Contains Duplicate II](./219.%20Contains%20Duplicate%20II) [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | `Array`, `Hash Table`, `Sliding Window` | [python3](./219.%20Contains%20Duplicate%20II/contains-duplicate-ii.py3) |
