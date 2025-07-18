@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 6/30/2025, 3:40:55 AM
+Last Update: 7/19/2025, 4:05:38 AM
 
 ## Solutions
 
@@ -14,6 +14,7 @@ Last Update: 6/30/2025, 3:40:55 AM
 | [11. Container With Most Water](./11.%20Container%20With%20Most%20Water) [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | `Array`, `Two Pointers`, `Greedy` | [cpp](./11.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |
 | [15. 3Sum](./15.%203Sum) [🔗](https://leetcode.com/problems/3sum/) | Medium | `Array`, `Two Pointers`, `Sorting` | [cpp](./15.%203Sum/3sum.cpp) \| [python3](./15.%203Sum/3sum.py3) |
 | [20. Valid Parentheses](./20.%20Valid%20Parentheses) [🔗](https://leetcode.com/problems/valid-parentheses/) | Easy | `String`, `Stack` | [python3](./20.%20Valid%20Parentheses/valid-parentheses.py3) |
+| [21. Merge Two Sorted Lists](./21.%20Merge%20Two%20Sorted%20Lists) [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | `Linked List`, `Recursion` | [python3](./21.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.py3) |
 | [39. Combination Sum](./39.%20Combination%20Sum) [🔗](https://leetcode.com/problems/combination-sum/) | Medium | `Array`, `Backtracking` | [python3](./39.%20Combination%20Sum/combination-sum.py3) |
 | [49. Group Anagrams](./49.%20Group%20Anagrams) [🔗](https://leetcode.com/problems/group-anagrams/) | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [cpp](./49.%20Group%20Anagrams/group-anagrams.cpp) \| [python](./49.%20Group%20Anagrams/group-anagrams.py) |
 | [50. Pow(x, n)](./50.%20Pow(x,%20n)) [🔗](https://leetcode.com/problems/powx-n/) | Medium | `Math`, `Recursion` | [python3](./50.%20Pow(x,%20n)/powx-n.py3) |

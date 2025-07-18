@@ -34,6 +34,12 @@ An input string is valid if:
 
 **Output:** true
 
+**Example 5:**
+
+**Input:** s = "(\[)\]"
+
+**Output:** false
+
 **Constraints:**
 
 *   `1 <= s.length <= 10^4`
