@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 9/1/2025, 4:51:19 AM
+Last Update: 9/2/2025, 4:58:30 AM
 
 ## Solutions
 
@@ -59,5 +59,6 @@ Last Update: 9/1/2025, 4:51:19 AM
 | [1091. Shortest Path in Binary Matrix](./1091.%20Shortest%20Path%20in%20Binary%20Matrix) [🔗](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | `Array`, `Breadth-First Search`, `Matrix` | [cpp](./1091.%20Shortest%20Path%20in%20Binary%20Matrix/shortest-path-in-binary-matrix.cpp) |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) [🔗](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | `Array`, `Sliding Window` | [python3](./1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py3) |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary) [🔗](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | `Array`, `Sorting` | [cpp](./1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/average-salary-excluding-the-minimum-and-maximum-salary.cpp) |
+| [1514. Path with Maximum Probability](./1514.%20Path%20with%20Maximum%20Probability) [🔗](https://leetcode.com/problems/path-with-maximum-probability/) | Medium | `Array`, `Graph`, `Heap (Priority Queue)`, `Shortest Path` | [cpp](./1514.%20Path%20with%20Maximum%20Probability/path-with-maximum-probability.cpp) |
 | [1550. Three Consecutive Odds](./1550.%20Three%20Consecutive%20Odds) [🔗](https://leetcode.com/problems/three-consecutive-odds/) | Easy | `Array` | [python3](./1550.%20Three%20Consecutive%20Odds/three-consecutive-odds.py3) |
 | [1971. Find if Path Exists in Graph](./1971.%20Find%20if%20Path%20Exists%20in%20Graph) [🔗](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` | [cpp](./1971.%20Find%20if%20Path%20Exists%20in%20Graph/find-if-path-exists-in-graph.cpp) |
