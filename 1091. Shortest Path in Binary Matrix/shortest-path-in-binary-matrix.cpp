@@ -1,5 +1,5 @@
-// 1091. Shortest Path in Binary Matrix (2/18/57636)
-// Runtime: 794 ms (0.00%) Memory: 36.94 MB (10.12%) 
+// 1091. Shortest Path in Binary Matrix (5/23/57636)
+// Runtime: 134 ms (4.77%) Memory: 36.93 MB (10.16%) 
 
 #include <queue>
 
@@ -38,7 +38,6 @@ public:
                 const auto curr = frontier.front(); frontier.pop();
 
                 // if the bottom-right cell, then we arrived
-                std::cout << curr.x << " " << curr.y << std::endl;
                 if (curr.x == N - 1 and curr.y == M -1)
                     return length;
 
@@ -61,7 +60,7 @@ public:
     }
 
 private:
-    std::vector<Cell> motions = {{-1,0}, {-1,1}, {0,1}, {1,1}, {1,0}, {1,-1}, {0,-1}, {-1,-1}};
+    std::vector<Cell> motions = {{1,1}, {0,1},{1,0},{0,-1},{-1,0},{-1, -1},{1, -1},{-1, 1}};
 
     bool isObstacle(const std::vector<std::vector<int>>& grid, const Cell& cell)
     {

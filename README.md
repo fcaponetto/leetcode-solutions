@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 8/31/2025, 11:21:50 PM
+Last Update: 9/1/2025, 4:51:19 AM
 
 ## Solutions
 
@@ -51,6 +51,7 @@ Last Update: 8/31/2025, 11:21:50 PM
 | [567. Permutation in String](./567.%20Permutation%20in%20String) [🔗](https://leetcode.com/problems/permutation-in-string/) | Medium | `Hash Table`, `Two Pointers`, `String`, `Sliding Window` | [python3](./567.%20Permutation%20in%20String/permutation-in-string.py3) |
 | [724. Find Pivot Index](./724.%20Find%20Pivot%20Index) [🔗](https://leetcode.com/problems/find-pivot-index/) | Easy | `Array`, `Prefix Sum` | [cpp](./724.%20Find%20Pivot%20Index/find-pivot-index.cpp) |
 | [739. Daily Temperatures](./739.%20Daily%20Temperatures) [🔗](https://leetcode.com/problems/daily-temperatures/) | Medium | `Array`, `Stack`, `Monotonic Stack` | [python3](./739.%20Daily%20Temperatures/daily-temperatures.py3) |
+| [743. Network Delay Time](./743.%20Network%20Delay%20Time) [🔗](https://leetcode.com/problems/network-delay-time/) | Medium | `Depth-First Search`, `Breadth-First Search`, `Graph`, `Heap (Priority Queue)`, `Shortest Path` | [cpp](./743.%20Network%20Delay%20Time/network-delay-time.cpp) |
 | [797. All Paths From Source to Target](./797.%20All%20Paths%20From%20Source%20to%20Target) [🔗](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | `Backtracking`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./797.%20All%20Paths%20From%20Source%20to%20Target/all-paths-from-source-to-target.cpp) |
 | [853. Car Fleet](./853.%20Car%20Fleet) [🔗](https://leetcode.com/problems/car-fleet/) | Medium | `Array`, `Stack`, `Sorting`, `Monotonic Stack` | [python3](./853.%20Car%20Fleet/car-fleet.py3) |
 | [875. Koko Eating Bananas](./875.%20Koko%20Eating%20Bananas) [🔗](https://leetcode.com/problems/koko-eating-bananas/) | Medium | `Array`, `Binary Search` | [python3](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py3) \| [python](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py) |
