@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 9/2/2025, 4:58:30 AM
+Last Update: 9/5/2025, 4:57:24 AM
 
 ## Solutions
 
@@ -30,6 +30,7 @@ Last Update: 9/2/2025, 4:58:30 AM
 | [133. Clone Graph](./133.%20Clone%20Graph) [🔗](https://leetcode.com/problems/clone-graph/) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./133.%20Clone%20Graph/clone-graph.cpp) |
 | [139. Word Break](./139.%20Word%20Break) [🔗](https://leetcode.com/problems/word-break/) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` | [python3](./139.%20Word%20Break/word-break.py3) |
 | [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | `Array`, `Two Pointers`, `Binary Search` | [python3](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two-sum-ii-input-array-is-sorted.py3) |
+| [200. Number of Islands](./200.%20Number%20of%20Islands) [🔗](https://leetcode.com/problems/number-of-islands/) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Matrix` | [cpp](./200.%20Number%20of%20Islands/number-of-islands.cpp) |
 | [208. Implement Trie (Prefix Tree)](./208.%20Implement%20Trie%20(Prefix%20Tree)) [🔗](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | `Hash Table`, `String`, `Design`, `Trie` | [python3](./208.%20Implement%20Trie%20(Prefix%20Tree)/implement-trie-prefix-tree.py3) |
 | [209. Minimum Size Subarray Sum](./209.%20Minimum%20Size%20Subarray%20Sum) [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` | [python3](./209.%20Minimum%20Size%20Subarray%20Sum/minimum-size-subarray-sum.py3) |
 | [217. Contains Duplicate](./217.%20Contains%20Duplicate) [🔗](https://leetcode.com/problems/contains-duplicate/) | Easy | `Array`, `Hash Table`, `Sorting` | [python3](./217.%20Contains%20Duplicate/contains-duplicate.py3) |
@@ -49,6 +50,7 @@ Last Update: 9/2/2025, 4:58:30 AM
 | [547. Number of Provinces](./547.%20Number%20of%20Provinces) [🔗](https://leetcode.com/problems/number-of-provinces/) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` | [cpp](./547.%20Number%20of%20Provinces/number-of-provinces.cpp) |
 | [561. Array Partition](./561.%20Array%20Partition) [🔗](https://leetcode.com/problems/array-partition/) | Easy | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [python3](./561.%20Array%20Partition/array-partition.py3) |
 | [567. Permutation in String](./567.%20Permutation%20in%20String) [🔗](https://leetcode.com/problems/permutation-in-string/) | Medium | `Hash Table`, `Two Pointers`, `String`, `Sliding Window` | [python3](./567.%20Permutation%20in%20String/permutation-in-string.py3) |
+| [695. Max Area of Island](./695.%20Max%20Area%20of%20Island) [🔗](https://leetcode.com/problems/max-area-of-island/) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Matrix` | [cpp](./695.%20Max%20Area%20of%20Island/max-area-of-island.cpp) |
 | [724. Find Pivot Index](./724.%20Find%20Pivot%20Index) [🔗](https://leetcode.com/problems/find-pivot-index/) | Easy | `Array`, `Prefix Sum` | [cpp](./724.%20Find%20Pivot%20Index/find-pivot-index.cpp) |
 | [739. Daily Temperatures](./739.%20Daily%20Temperatures) [🔗](https://leetcode.com/problems/daily-temperatures/) | Medium | `Array`, `Stack`, `Monotonic Stack` | [python3](./739.%20Daily%20Temperatures/daily-temperatures.py3) |
 | [743. Network Delay Time](./743.%20Network%20Delay%20Time) [🔗](https://leetcode.com/problems/network-delay-time/) | Medium | `Depth-First Search`, `Breadth-First Search`, `Graph`, `Heap (Priority Queue)`, `Shortest Path` | [cpp](./743.%20Network%20Delay%20Time/network-delay-time.cpp) |
