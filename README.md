@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 9/13/2025, 4:14:25 AM
+Last Update: 9/14/2025, 6:25:07 PM
 
 ## Solutions
 
@@ -48,6 +48,7 @@ Last Update: 9/13/2025, 4:14:25 AM
 | [417. Pacific Atlantic Water Flow](./417.%20Pacific%20Atlantic%20Water%20Flow) [🔗](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` | [cpp](./417.%20Pacific%20Atlantic%20Water%20Flow/pacific-atlantic-water-flow.cpp) |
 | [424. Longest Repeating Character Replacement](./424.%20Longest%20Repeating%20Character%20Replacement) [🔗](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | `Hash Table`, `String`, `Sliding Window` | [python3](./424.%20Longest%20Repeating%20Character%20Replacement/longest-repeating-character-replacement.py3) |
 | [456. 132 Pattern](./456.%20132%20Pattern) [🔗](https://leetcode.com/problems/132-pattern/) | Medium | `Array`, `Binary Search`, `Stack`, `Monotonic Stack`, `Ordered Set` | [cpp](./456.%20132%20Pattern/132-pattern.cpp) |
+| [463. Island Perimeter](./463.%20Island%20Perimeter) [🔗](https://leetcode.com/problems/island-perimeter/) | Easy | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` | [cpp](./463.%20Island%20Perimeter/island-perimeter.cpp) |
 | [547. Number of Provinces](./547.%20Number%20of%20Provinces) [🔗](https://leetcode.com/problems/number-of-provinces/) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` | [cpp](./547.%20Number%20of%20Provinces/number-of-provinces.cpp) |
 | [561. Array Partition](./561.%20Array%20Partition) [🔗](https://leetcode.com/problems/array-partition/) | Easy | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [python3](./561.%20Array%20Partition/array-partition.py3) |
 | [567. Permutation in String](./567.%20Permutation%20in%20String) [🔗](https://leetcode.com/problems/permutation-in-string/) | Medium | `Hash Table`, `Two Pointers`, `String`, `Sliding Window` | [python3](./567.%20Permutation%20in%20String/permutation-in-string.py3) |
