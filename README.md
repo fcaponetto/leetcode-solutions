@@ -2,7 +2,7 @@
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/NeverCry)](https://leetcode.com/NeverCry/)
 
-Last Update: 9/14/2025, 6:25:07 PM
+Last Update: 9/16/2025, 5:39:46 AM
 
 ## Solutions
 
@@ -58,6 +58,7 @@ Last Update: 9/14/2025, 6:25:07 PM
 | [743. Network Delay Time](./743.%20Network%20Delay%20Time) [🔗](https://leetcode.com/problems/network-delay-time/) | Medium | `Depth-First Search`, `Breadth-First Search`, `Graph`, `Heap (Priority Queue)`, `Shortest Path` | [cpp](./743.%20Network%20Delay%20Time/network-delay-time.cpp) |
 | [797. All Paths From Source to Target](./797.%20All%20Paths%20From%20Source%20to%20Target) [🔗](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | `Backtracking`, `Depth-First Search`, `Breadth-First Search`, `Graph` | [cpp](./797.%20All%20Paths%20From%20Source%20to%20Target/all-paths-from-source-to-target.cpp) |
 | [853. Car Fleet](./853.%20Car%20Fleet) [🔗](https://leetcode.com/problems/car-fleet/) | Medium | `Array`, `Stack`, `Sorting`, `Monotonic Stack` | [python3](./853.%20Car%20Fleet/car-fleet.py3) |
+| [874. Walking Robot Simulation](./874.%20Walking%20Robot%20Simulation) [🔗](https://leetcode.com/problems/walking-robot-simulation/) | Medium | `Array`, `Hash Table`, `Simulation` | [cpp](./874.%20Walking%20Robot%20Simulation/walking-robot-simulation.cpp) |
 | [875. Koko Eating Bananas](./875.%20Koko%20Eating%20Bananas) [🔗](https://leetcode.com/problems/koko-eating-bananas/) | Medium | `Array`, `Binary Search` | [python3](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py3) \| [python](./875.%20Koko%20Eating%20Bananas/koko-eating-bananas.py) |
 | [994. Rotting Oranges](./994.%20Rotting%20Oranges) [🔗](https://leetcode.com/problems/rotting-oranges/) | Medium | `Array`, `Breadth-First Search`, `Matrix` | [cpp](./994.%20Rotting%20Oranges/rotting-oranges.cpp) \| [python3](./994.%20Rotting%20Oranges/rotting-oranges.py3) |
 | [1091. Shortest Path in Binary Matrix](./1091.%20Shortest%20Path%20in%20Binary%20Matrix) [🔗](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | `Array`, `Breadth-First Search`, `Matrix` | [cpp](./1091.%20Shortest%20Path%20in%20Binary%20Matrix/shortest-path-in-binary-matrix.cpp) |
